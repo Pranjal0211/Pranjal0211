@@ -18,7 +18,7 @@ I'm a passionate **Full Stack Developer** with experience in designing and build
 
 | 💻 Backend      | 🌐 Frontend           | 📊 Databases        | ☁️ Cloud          |
 |------------------|-----------------------|---------------------|-------------------|
-| Java (Spring Boot, Hibernate, Microservices) | React.js, Angular, Tailwind CSS | MySQL, PostgreSQL, MongoDB | AWS, Azure |
+| Java (Spring Boot, Hibernate, Microservices) | React.js, Tailwind CSS | MySQL, PostgreSQL, MongoDB | AWS, Azure |
 | Node.js, Flask   | HTML, CSS, TypeScript |                     |                   |
 
 
