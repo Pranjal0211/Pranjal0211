@@ -14,6 +14,16 @@ I'm a passionate **Full Stack Developer** with experience in designing and build
 
 ---
 
+### 🤖 Agentic AI Projects
+
+| Project | What it is |
+|---|---|
+| **[Echo](https://github.com/Pranjal0211/echo)** | AI communication twin: drafts job-search replies for Gmail and LinkedIn in my voice; nothing sends without my approval. React, TypeScript, Cloudflare Workers, Supabase |
+| **[agent-crew](https://github.com/Pranjal0211/agent-crew)** | My AI build crew: Claude Code agents (planner, builder, tester, designer) plus a team-lead skill that picks tasks, builds them, tests them in a real browser and opens PRs |
+| **[agent-office](https://github.com/Pranjal0211/agent-office)** | A virtual office where my AI agents work as employees: a live crew board, built and improved by agent-crew |
+
+---
+
 ### ⚡ Tech Stack I Work On:
 
 | 💻 Backend      | 🌐 Frontend           | 📊 Databases        | ☁️ Cloud          |
